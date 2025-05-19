@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 19-05-2025
+### DATE: 19/05/2025
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,7 +47,7 @@
 
 ## Output:
 
-### NAME : AKBAR I
+### NAME : akbar i
 ### REG NO : 212224230014
 ## Rendered Output
 ![image](https://github.com/user-attachments/assets/03068af3-4e90-4b00-a17c-c61ac490d877)
